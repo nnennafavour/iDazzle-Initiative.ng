@@ -10,7 +10,7 @@ import {
 import Navbar from "./Components/Navbar";
 
 import Hero from "./Components/Hero";
-import OtherImpact from "./Components/OtherImpact";
+import OtherImpact from "./Components/otherImpact";
 
 import AboutUs from "./Pages/AboutUs";
 import Projects from "./Pages/Projects";
@@ -35,7 +35,7 @@ const HomePage = () => {
 
       <Projects />
 
-      <OtherImpact />
+      <otherImpact />
 
       <Teams />
 
