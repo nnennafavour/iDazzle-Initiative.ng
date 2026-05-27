@@ -20,9 +20,9 @@ import TheDazzlegirl from "./Pages/TheDazzlegirl";
 import SeedofHope from "./Pages/SeedofHope";
 import Teams from "./Pages/Teams";
 import TeamMembers from "./Pages/TeamMembers";
-import Footer from "./Pages/Footer";
 import Contact from "./Pages/Contact";
 import Donate from "./Pages/Donate";
+import Footer from "./Pages/Footer";
 
 
 // HOME PAGE
